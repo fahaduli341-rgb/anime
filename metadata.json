@@ -1,0 +1,7 @@
+{
+  "name": "Dark Souls Holo Card",
+  "description": "Interactive Dark Souls holographic card featuring The Ashen One beside the candlelit sword shrine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
